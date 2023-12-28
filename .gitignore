@@ -1,0 +1,5 @@
+# Ignore ALL files with .log extension
+*.log
+
+# Ignore ALL files in ANY directory named temp
+temp/
